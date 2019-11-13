@@ -1,0 +1,8 @@
+﻿  GameManager.cpp
+  Main.cpp
+  State.cpp
+  StateMachine.cpp
+GameManager.obj : error LNK2001: unresolved external symbol __imp____glewBindBuffer
+GameManager.obj : error LNK2001: unresolved external symbol __imp____glewBufferData
+GameManager.obj : error LNK2001: unresolved external symbol __imp____glewGenBuffers
+C:\Users\conno\Documents\repos\OpenGL_Game\Release\OpenGL_Game.exe : fatal error LNK1120: 3 unresolved externals
